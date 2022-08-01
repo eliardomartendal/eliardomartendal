@@ -1,6 +1,4 @@
 # Sobre mim 
-- 
--  
 -ola eu sou o gugu 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
